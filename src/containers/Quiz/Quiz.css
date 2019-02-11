@@ -1,0 +1,24 @@
+.Quiz{
+  padding: 15px;
+  color: #191970;
+  background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+
+  display: flex;
+  justify-content: center;
+  position: relative;
+  min-height: calc(100vh - 30px);
+}
+
+.Quiz>div{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding:0px 20px 5px 20px;
+  width: 400px;
+  border: 1px solid #fff;
+  background: #eee;
+  box-shadow: 2px 2px 2px rgba(0,0,0, .5);
+}
+.buttonBlock{
+  display: flex;
+}

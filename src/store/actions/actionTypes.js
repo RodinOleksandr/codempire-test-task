@@ -1,0 +1,7 @@
+export const FETCH_QUIZ = 'FETCH_QUIZ'
+export const SET_ANSWERS = 'SET_ANSWERS'
+export const RESULT = 'RESULT'
+export const SET_QUESTIONS = 'SET_QUESTIONS'
+export const CLEAR_STATE = 'CLEAR_STATE'
+export const CANSEL = 'CANSEL'
+export const CLEAR_ANSWER_STATE = 'CLEAR_ANSWER_STATE'

@@ -1,0 +1,9 @@
+.Input input{
+  padding: 10px;
+  display: block;
+  box-sizing: border-box;
+  border: 1px solid #bebebe;
+  height: 29px;
+  width: 100%;
+  outline: none;
+}

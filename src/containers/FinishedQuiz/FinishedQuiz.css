@@ -1,0 +1,52 @@
+.FinishedQuiz{
+  padding-top: 20px;
+  color: #191970;
+  background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+  height: calc(100vh - 20px);
+  display: flex;
+  justify-content: center;
+
+}
+
+.FinishedQuiz>div{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  width: 400px;
+  border: 1px solid #fff;
+  height: 280px;
+  background: #eee;
+  box-shadow: 2px 2px 2px rgba(0,0,0, .5);
+  padding-bottom: 10px;
+}
+.FinishedQuiz ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+}
+
+.FinishedQuiz ul li{
+
+  padding-bottom: 10px;
+
+
+
+}
+.FinishedQuiz ul li i{
+  margin-left: 10px;
+}
+
+.successfully{
+  color: rgba(30,247,11,.6);
+
+}
+.error{
+  color:rgba(255,0,0,.6);
+
+}
+
+.result {
+  font-weight: bold;
+}

@@ -1,0 +1,23 @@
+.ConfirmWindow{
+  position: absolute;
+  left: 0;
+  right: 0 ;
+  bottom: 0;
+  top : 0;
+  display: block;
+  margin-bottom: 0;
+  background: rgba(169, 169, 169, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.ConfirmWindow>div{
+  color: #2F4F4F;
+  max-width: 400px;
+  padding: 40px;
+  border: 1px solid #fff;
+  background: #eee;
+  box-shadow: 2px 2px 2px rgba(0,0,0, .5);
+}

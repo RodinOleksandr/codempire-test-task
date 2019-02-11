@@ -1,0 +1,13 @@
+
+.Select select{
+  padding: 5px;
+  display: block;
+  box-sizing: border-box;
+  border: 1px solid #bebebe;
+  margin: 0;
+  height: 29px;
+  width: 100%;
+  outline: none;
+  transition-duration: 1s;
+  transition: all 300ms ease-in-out;
+}
